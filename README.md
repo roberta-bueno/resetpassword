@@ -21,7 +21,7 @@ This guide provides an overview of the steps for helping someone to reset their 
 <h3>Step 1: Go to Active Directory</h3>
   - Go to the folder that their user is, right click on it, click on reset password and set a new password for the user.
     <p align="center">
-  <img src="https://github.com/roberta-bueno/resetpassword/assets/135675237/98f63975-aad5-44b0-a29b-a2327cab004a" height="60%" width="60%" alt="Locked account" /></p>
+  <img src="https://github.com/roberta-bueno/resetpassword/assets/135675237/98f63975-aad5-44b0-a29b-a2327cab004a" height="60%" width="60%" alt="Reset" /></p>
    <p align="center">
-  <img src="https://github.com/roberta-bueno/resetpassword/assets/135675237/cc0c53e3-8768-4bc4-87cf-a5cea10af0c8" /></p>
+  <img src="https://github.com/roberta-bueno/resetpassword/assets/135675237/cc0c53e3-8768-4bc4-87cf-a5cea10af0c8" height="60%" width="60%" alt="Reset" /></p>
    <p align="center">
