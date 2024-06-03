@@ -1,5 +1,6 @@
-# <h1>Account Locked Out</h1>
-This guide provides an overview of the steps for helping someone with a locked account through active directory<br />
+<h1>Reset Password</h1>
+This guide provides an overview of the steps for helping someone to reset their password
+<br />
 
 <h2>Platforms and Technologies Utilized</h2>
 
